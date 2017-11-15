@@ -1,6 +1,6 @@
-# Food Sharing
+# FoodShack
 
-Food Sharing is a food sharing app. You have extra food that you like to share or trade with
+FoodShack is a food sharing app. You have extra food that you like to share or trade with
 the others. You make an account to the app and log in to share your food. You need to upload 
 a beautiful image along with the other information namely: name of the food, expiration date 
 of the food, sale value or sharing it for free, your choice. 
